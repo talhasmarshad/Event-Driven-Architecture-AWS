@@ -23,6 +23,7 @@ AWS Lambda
 The architecture ensures loose coupling between components, fault tolerance, scalability, and reliable event delivery.
 
 Architecture Components
+
 1️⃣ Event Producer – Source S3 Bucket
 
 The Source S3 Bucket acts as the event producer.
